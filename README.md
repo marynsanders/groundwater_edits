@@ -16,5 +16,5 @@ value, then a rolling mean was applied for the values between each manual measur
 For 2016 to 2020, Maryn Sanders manually edited Mariel's corrected data in order to account for
 the sections where her averaging method did not apply. This was done by sorting through the 
 Excel file for obviously wrong data, and then fitting a linear funtion between the upper and 
-lower bounds. A text file is included in this repository with the timespans that the edits 
-apply to. 
+lower bounds. A text file (replaced_transducer_data.txt) is included in this repository with 
+the timespans that the edits apply to. 
